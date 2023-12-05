@@ -27,6 +27,7 @@
     {"name":"Camera","order":6,"path":"folders/Sprites/Camera.yy",},
     {"name":"Collision","order":9,"path":"folders/Sprites/Collision.yy",},
     {"name":"Enemy","order":2,"path":"folders/Sprites/Enemy.yy",},
+    {"name":"NormalEnemy","order":6,"path":"folders/Sprites/Enemy/NormalEnemy.yy",},
     {"name":"OrcBoss","order":5,"path":"folders/Sprites/Enemy/OrcBoss.yy",},
     {"name":"Player","order":1,"path":"folders/Sprites/Player.yy",},
     {"name":"Hboxes","order":8,"path":"folders/Sprites/Player/Hboxes.yy",},
@@ -38,7 +39,6 @@
     {"name":"PunchFX","order":1,"path":"folders/Sprites/VFX/PunchFX.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"NormalEnemy","order":6,"path":"folders/Sprites/Enemy/NormalEnemy.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"faderWhite","order":3,"path":"sprites/faderWhite/faderWhite.yy",},

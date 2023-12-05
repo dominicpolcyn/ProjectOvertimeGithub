@@ -40,6 +40,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Camera","folderPath":"folders/Sprites/Camera.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Collision","folderPath":"folders/Sprites/Collision.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemy","folderPath":"folders/Sprites/Enemy.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"NormalEnemy","folderPath":"folders/Sprites/Enemy/NormalEnemy.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"OrcBoss","folderPath":"folders/Sprites/Enemy/OrcBoss.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Sprites/Player.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Hboxes","folderPath":"folders/Sprites/Player/Hboxes.yy",},
@@ -51,13 +52,12 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"PunchFX","folderPath":"folders/Sprites/VFX/PunchFX.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"NormalEnemy","folderPath":"folders/Sprites/Enemy/NormalEnemy.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"ATKupLight","path":"objects/ATKupLight/ATKupLight.yy",},},
@@ -153,6 +153,7 @@
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"LevelOne","path":"rooms/LevelOne/LevelOne.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
