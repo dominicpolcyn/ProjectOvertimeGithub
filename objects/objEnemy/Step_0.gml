@@ -110,40 +110,4 @@ if (InAir = true){
 }
 depth = -1*GroundY;
 
-<<<<<<< Updated upstream
-=======
-if(IsHit == true)
-{
-	sprite_index = sprEnmHit;
-} else 
-{
-	sprite_index = sprEnmIdle;
-}
-
-switch (State){
-	
-	case "idle":
-		//animate the enemy,
-		//check to see if the enemy should attack
-		break;
-		
-	case "PositionFront":
-		SideMod = 1;
-		//Find Target position
-		//Move there
-		//animate the enemy,
-		//check to see if the enemy should attack
-		break;
-		
-	case "PositionBehind":
-		SideMod = -1;
-		//Find Target position
-		//Move there
-		//animate the enemy
-		//check to see if the enemy should attack
-		break;
-}
-	
-
->>>>>>> Stashed changes
 

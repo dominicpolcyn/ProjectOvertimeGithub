@@ -31,11 +31,8 @@ switch State{
 		break
 }
 
-<<<<<<< Updated upstream
 //TargetX = objPlayer.x
 //TargetY = objPlayer.y
-=======
->>>>>>> Stashed changes
 
 if(distance_to_point(TargetX,TargetY) < MoveSpeed){
     x = TargetX;
