@@ -74,10 +74,14 @@
     {"id":{"name":"collisionBox","path":"objects/collisionBox/collisionBox.yy",},},
     {"id":{"name":"sprPlyrUpStrong","path":"sprites/sprPlyrUpStrong/sprPlyrUpStrong.yy",},},
     {"id":{"name":"sprEnmIdle","path":"sprites/sprEnmIdle/sprEnmIdle.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"uiHealthBar","path":"sprites/uiHealthBar/uiHealthBar.yy",},},
     {"id":{"name":"IntroScreen","path":"rooms/IntroScreen/IntroScreen.yy",},},
     {"id":{"name":"ATKdownStrong","path":"objects/ATKdownStrong/ATKdownStrong.yy",},},
     {"id":{"name":"sprPlyrDownLight","path":"sprites/sprPlyrDownLight/sprPlyrDownLight.yy",},},
+=======
+    {"id":{"name":"sprEnemyStrongPunch","path":"sprites/sprEnemyStrongPunch/sprEnemyStrongPunch.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"sprBattleRegion","path":"sprites/sprBattleRegion/sprBattleRegion.yy",},},
     {"id":{"name":"objIntro","path":"objects/objIntro/objIntro.yy",},},
     {"id":{"name":"sprBossOrcIdle","path":"sprites/sprBossOrcIdle/sprBossOrcIdle.yy",},},
@@ -143,9 +147,14 @@
     {"id":{"name":"faderDark","path":"sprites/faderDark/faderDark.yy",},},
     {"id":{"name":"ATKstrongPunch","path":"objects/ATKstrongPunch/ATKstrongPunch.yy",},},
     {"id":{"name":"sprPlyrIdle","path":"sprites/sprPlyrIdle/sprPlyrIdle.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"Floor","path":"tilesets/Floor/Floor.yy",},},
     {"id":{"name":"sfxTitleTheme","path":"sounds/sfxTitleTheme/sfxTitleTheme.yy",},},
     {"id":{"name":"LevelOne","path":"rooms/LevelOne/LevelOne.yy",},},
+=======
+    {"id":{"name":"sprEnemyBasicPunch","path":"sprites/sprEnemyBasicPunch/sprEnemyBasicPunch.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+>>>>>>> Stashed changes
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"BeforeIntro","path":"rooms/BeforeIntro/BeforeIntro.yy",},},

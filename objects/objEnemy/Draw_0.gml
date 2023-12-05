@@ -9,6 +9,7 @@ if(InAir == true) {
 } else
 draw_ellipse(x-40,(y+8)+z,x+40,(y-8)+z,false);
 //Draw my own sprite. 
+<<<<<<< Updated upstream
 draw_set_alpha(1)
 draw_self()
 
@@ -18,6 +19,12 @@ draw_self()
 //		string(zVelocity) + " CurrY: " + string(currentY) + " HP: " +
 //		string(CurrentHP) + "\n MA: " + string(MyAction) + " Aggro: " +
 //		string(Aggressiveness))
+=======
+draw_set_alpha(1);
+draw_self();
+draw_text(x,y,State);
+
+>>>>>>> Stashed changes
 
 
 
